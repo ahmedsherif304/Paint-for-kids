@@ -1,0 +1,3 @@
+2
+LINE   1   72    302       447    384    BLACK     BLACK
+LINE   2   340    170       612    309    BLACK     BLACK

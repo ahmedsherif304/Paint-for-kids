@@ -1,0 +1,4 @@
+3
+LINE   1   247    110       417    307    BLACK     BLACK
+LINE   2   692    414       692    414    BLACK     BLACK
+LINE   3   498    198       642    352    BLACK     BLACK

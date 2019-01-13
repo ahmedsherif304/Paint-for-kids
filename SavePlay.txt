@@ -1,0 +1,7 @@
+6
+RECTANGLE 1   371    229       629    499    BLACK     NO_FILL
+RHOMBUS   4   842    264    BLACK     NO_FILL
+RECTANGLE 1   371    229       629    499    BLACK     NO_FILL
+RHOMBUS   4   842    264    BLACK     NO_FILL
+TRIANGLE   7   157    162       65    305       227    337    BLACK     NO_FILL
+RHOMBUS   8   1098    413    BLACK     NO_FILL

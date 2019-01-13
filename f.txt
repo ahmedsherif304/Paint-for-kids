@@ -1,0 +1,2 @@
+1
+ELLIPSE   1   325    310    BLACK     NO_FILL

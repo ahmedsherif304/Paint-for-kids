@@ -1,0 +1,2 @@
+1
+RECTANGLE 1   200    195       407    349    BLACK     NO_FILL

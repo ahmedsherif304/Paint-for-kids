@@ -1,0 +1,2 @@
+1
+RECT    1   183    395       397    333    BLACK     NO_FILL

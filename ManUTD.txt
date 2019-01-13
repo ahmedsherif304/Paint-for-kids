@@ -1,0 +1,8 @@
+7
+RECTANGLE 1   272    293       272    293    BLACK     NO_FILL
+RECTANGLE 2   306    397       306    397    BLACK     NO_FILL
+RECTANGLE 3   106    211       296    396    BLACK     NO_FILL
+ELLIPSE   4   491    314    BLACK     NO_FILL
+RHOMBUS   5   733    233    BLACK     NO_FILL
+LINE   6   573    206       703    388    BLACK     
+TRIANGLE   7   986    158       867    422       1093    354    BLACK     NO_FILL

@@ -1,0 +1,3 @@
+2
+Triangle   1   218    169       149    330       494    332    BLACK     NO_FILL
+Triangle   2   603    180       588    334       777    305    BLACK     NO_FILL

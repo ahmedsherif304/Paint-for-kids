@@ -1,0 +1,2 @@
+1
+ELLIPSE   1   288    334    BLACK     BLUE

@@ -1,0 +1,4 @@
+3
+RHOMBUS   1   213    256    BLACK     NO_FILL
+RHOMBUS   2   433    265    BLACK     NO_FILL
+RHOMBUS   3   581    233    BLACK     NO_FILL

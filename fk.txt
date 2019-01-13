@@ -1,0 +1,2 @@
+1
+LINE   1   292    177       540    362    BLACK     BLACK

@@ -1,0 +1,2 @@
+1
+ELLIPSE   1   442    288    BLACK     NO_FILL
